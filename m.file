@@ -1,6 +1,5 @@
 function isPrime = is_prime(number)
-    % Check if the number is prime or not
-    
+    % Check if the number is prime or not.
     isPrime = true; % Assume the number is prime
     
     if number <= 1
